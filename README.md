@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prafullkuma
 - 👀 I’m interested in ...ReactJs,Website Dev,Mobile App Dev
-- 🌱 I’m currently learning ...React js
+- 🌱 I’m currently learning and working on  ...React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.instagram.com/prafullkumar_007/
 

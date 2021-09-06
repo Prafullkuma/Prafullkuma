@@ -1,4 +1,4 @@
-# Hi there 👋 ,My name PrafullKumar
+# Hi there 👋 ,My name is PrafullKumar
 
 > :smiling_imp: About me
 - :green_book: I am Passionate about web development, and Quick learner,

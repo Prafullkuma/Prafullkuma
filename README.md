@@ -8,7 +8,7 @@
 > Tech stack
 - Javascript,ES5,ES6
 - HTML , CSS ,REACT JS, REDUX,REDUX-Thunk
-- Meterial UI ||  Semantic React UI || Bootstrap
+- || Bootstrap || Meterial UI ||  Semantic React UI 
 - Git,git version control
 - Interested In-Node js
 
